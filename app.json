@@ -1,6 +1,6 @@
 {
-"logo": "https://i.ibb.co/6Ftn6qn/genStr.jpg",
-"name": "genStr",
+"logo": "https://i.ibb.co/8gT0pLDL/pysession.png",
+"name": "pysession",
 "description": "Telegram session string generator bot",
 "keywords": [
 "python-api",
@@ -9,16 +9,16 @@
 
 "automation"
 ],
-"homepage": "https://github.com/krakinz/genStr",
+"homepage": "https://github.com/frionode/pysession",
 "author": {
-"name": "KrakinzLab"
+"name": "frionodeLab"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Krakinz/genStr.git"
+"url": "git+https://github.com/frionode/pysession.git"
 },
 "bugs": {
-"url": "https://github.com/krakinz/genStr/issues"
+"url": "https://github.com/frionode/pysession/issues"
 },
 "license": "GPL-3.0",
 "buildpacks": [
@@ -57,12 +57,12 @@
 "value": ""
 },
 "CODE": {
-"description": "Top secret KrakinzLab authentication",
+"description": "Top secret krakinzlab authentication",
 "required": true,
 "value": "Get it at https://krakinzlab.com/api"
 }
 },
 "scripts": {
-  "start": "python3 genStr.py"
+  "start": "python3 pysession.py"
  }
 }

@@ -1,5 +1,7 @@
 heroku3
 pymongo
-pyrogram==1.4.8
+pyrogram
 pyromod
 TgCrypto
+python-dotenv
+
